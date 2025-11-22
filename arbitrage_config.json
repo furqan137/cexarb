@@ -1,0 +1,72 @@
+{
+  "triangular": {
+    "exchange": "bittrex",
+    "keyFile": "keys/bittrex.key",
+    "tickerPairA": "BTC-ETH",
+    "tickerPairB": "ETH-LTC",
+    "tickerPairC": "BTC-LTC",
+    "tickerA": "BTC",
+    "tickerB": "ETH",
+    "tickerC": "LTC"
+  },
+  "exchange_XRP": {    
+    "exchangeA": {
+      "exchange": "binance",
+      "keyFile": "keys/binance.key",
+      "tickerPair": "XRPUSDT",
+      "tickerA": "USDT",
+      "tickerB": "XRP"
+    },
+    "exchangeB": {
+      "exchange": "okx",
+      "keyFile": "keys/okx.key",
+      "tickerPair": "XRP-USDT",
+      "tickerA": "USDT",
+      "tickerB": "XRP"
+    },
+    "exchangeC": {
+      "exchange": "crypto",
+      "keyFile": "keys/crypto.key",
+      "tickerPair": "XRP_USDT",
+      "tickerA": "USDT",
+      "tickerB": "XRP"
+    },
+    "exchangeD": {
+      "exchange": "kraken",
+      "keyFile": "keys/kraken.key",
+      "tickerPair": "XXRPZUSD",
+      "tickerA": "USDT",
+      "tickerB": "XXRP"
+    }
+  },
+  "exchange_XLM":{
+    "exchangeA": {
+      "exchange": "binance",
+      "keyFile": "keys/binance.key",
+      "tickerPair": "XLMUSDT",
+      "tickerA": "USDT",
+      "tickerB": "XLM"
+    },
+    "exchangeB": {
+      "exchange": "okx",
+      "keyFile": "keys/okx.key",
+      "tickerPair": "XLM-USDT",
+      "tickerA": "USDT",
+      "tickerB": "XLM"
+    },
+    "exchangeC": {
+      "exchange": "kraken",
+      "keyFile": "keys/kraken.key",
+      "tickerPair": "XXLMZUSD",
+      "tickerA": "ZUSD",
+      "tickerB": "XXLM"
+    },
+    "exchangeD": {
+      "exchange": "crypto",
+      "keyFile": "keys/crypto.key",
+      "tickerPair": "XLM_USDT",
+      "tickerA": "USDT",
+      "tickerB": "XLM"
+    }
+  }
+}
