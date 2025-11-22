@@ -1,0 +1,12 @@
+grequests>=0.3.0
+requests>=2.18.0
+interpstyle>=0.1.0
+aiohttp
+structlog>=25.0.0
+httpx>=0.28.0
+tenacity>=9.1.0
+python-dotenv>=1.1.0
+rich>=13
+pytest>=8
+setuptools>=68
+alembic>=1.15.2
